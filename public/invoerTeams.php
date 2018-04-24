@@ -1,6 +1,4 @@
-<?php require(realpath(__DIR__) . '/templates/header.php'); ?>
-
-    <!doctype html>
+<!doctype html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -61,5 +59,3 @@
 
     </body>
     </html>
-
-<?php require(realpath(__DIR__) . '/templates/footer.php');
